@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", sans-serif;
+  background: #f7f7f7;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+#map {
+  height: 90vh;
+  width: 100%;
+}
